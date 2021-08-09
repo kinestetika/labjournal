@@ -12,7 +12,7 @@
 1. Open source.
 2. Excellent reputation: Having a github page improves your own reputation.
 3. Very easy to create nicely formatted text with markup language (check out this file as example).
-4. Easy to upload images from your phone and include them in your journal.
+4. Easy to upload images from your phone and include them in your journal (see example below).
 5. Easy to link or upload other files, such as spreadsheets. I would recommend to use a link to a google sheet though, instead of uplouding excel files - otherwise you're uploading and downloading a potentially large file all the time.
 6. Easy to integrate with computer code, has versioning control if you're interested.
 
